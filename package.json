@@ -1,0 +1,17 @@
+{
+  "name": "gaelicbot",
+  "version": "1.0.0",
+  "description": "correct the use of gaelic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "J Mc",
+  "license": "ISC",
+   "dependencies": {
+    "dotenv": "^4.0.0",
+    "snoostorm": "^0.0.5",
+    "snoowrap": "^1.14.1"
+  }
+}
